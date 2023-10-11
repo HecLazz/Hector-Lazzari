@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi honey, Me chamo Hector Lazzari</h1>
 
-- ☕ Atualmente estou estudando JAVA
+- ☕ Atualmente estou estudando JAVA.
 - 👨🏻‍🎓 Estou cursando **ESoft** na universidade **UniCesumar**.
 - 🔥 My Instagram - https://www.instagram.com/heclazz_/
 - 💻 LinkeId - https://www.linkedin.com/in/hector-lazzari-067772237/
